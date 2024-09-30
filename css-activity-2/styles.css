@@ -1,0 +1,19 @@
+.clase {
+    background-color: palevioletred;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id2 {
+    font-size: 36px;
+    color: blue
+}
+
+.class2 {
+    font-size: 24px
+}
+
+#id4 {
+    font-size: 24px;
+    background-color: greenyellow;
+    font: bold;
+}

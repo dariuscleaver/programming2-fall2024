@@ -1,0 +1,25 @@
+h1{
+    font-variant: all-petite-caps
+}
+p{
+    color: #cc5ab6;
+    background-color: whitesmoke;
+    
+}
+.alert {
+    color: red;
+    font-weight: 400;
+    font-size: large;
+}
+
+
+#para-2 {
+    color:green;
+    border: solid
+}
+
+#teok {
+    color: pink;
+    border: solid
+    
+}
