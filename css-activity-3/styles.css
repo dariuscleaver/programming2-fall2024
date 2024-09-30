@@ -1,0 +1,16 @@
+#id1{
+    background-color: black;
+    color:white;
+}
+
+#id2{
+    background-color: yellow;
+    
+}
+
+#id1, #id2, p{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+    
+}
+
