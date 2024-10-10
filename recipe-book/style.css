@@ -1,0 +1,29 @@
+.pinktext {
+    color: pink;
+    
+    
+}
+.purple_arial {
+    background-color: mediumpurple;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#bigbold{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+img{
+    border: dotted;
+    border-color: red;
+    height: 100px;
+    width: 600px;
+    margin: 200px;
+}
+
+.padcenter{
+    display: block;
+    padding: 200px;
+    text-align: center;
+}
