@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>NAME GENERATOR</title>
+        <link rel="stylesheet" href="styles.css" />
+        <script src="script.js"></script>
+    </head>
+    <body>
+        <h1>Name Generator</h1>
+        <h5>Answer The Questions And Generate A Name!</h5>
+        <div>
+            <label for="birthseason">What Season Were You Born In: </label>
+            <select name="birthseason" id="birthseason">
+                <option value="winter">Winter</option>
+                <option value="spring">Spring</option>
+                <option value="summer">Summer</option>
+                <option value="fall">Fall</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="breakfast">Choose a breakfast: </label>
+            <select name="breakfast" id="breakfast">
+                <option value="cereal">Cereal</option>
+                <option value="pancakes">Pancakes</option>
+                <option value="waffles">Waffles</option>
+                <option value="eggs">Cereal</option>
+            </select>
+        </div>
+
+        <div>
+            <label for="age">Age: </label>
+            <select name="age" id="age">
+                <option value="senior">65+</option>
+                <option value="adult">20-64</option>
+                <option value="teen">13-19</option>
+                <option value="kid">0-12</option>
+            </select>
+        </div>
+
+        <button onclick="generate()">Generate</button>
+        <p id="message"></p>
+    </body>
+</html>
